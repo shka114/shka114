@@ -2,10 +2,8 @@
 
 HEY THERE!
 
-I am Tanishka Gawade and I am currently pursuing BTech in Computer Science
+I am Tanishka Gawade and I am currently pursuing BTech in Computer Science.
 
-SKILLS AND TECHNOLOGIES;
-
-C,C++,HTML,CSS
+I have good knowledge of C,C++,HTML and CSS.
 
 I am currently exploring and improving my skills in programming ,web dev and computer science fundamentals.I am someone who enjoys technology and creativity together,always looking forward to learn.
